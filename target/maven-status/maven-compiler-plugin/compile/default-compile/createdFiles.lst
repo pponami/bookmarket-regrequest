@@ -1,0 +1,12 @@
+bookmarket\RegRequest.class
+bookmarket\ReqCanceled.class
+bookmarket\PolicyHandler.class
+bookmarket\RegrequestApplication.class
+bookmarket\AbstractEvent.class
+bookmarket\external\ApproveService.class
+bookmarket\RegRequestRepository.class
+bookmarket\external\Approve.class
+bookmarket\AbstractEvent$1.class
+bookmarket\config\kafka\KafkaProcessor.class
+bookmarket\RegRequested.class
+bookmarket\RegRequestController.class
