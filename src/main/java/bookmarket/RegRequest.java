@@ -18,13 +18,13 @@ public class RegRequest {
 
     @PostPersist
     public void onPostPersist(){
-        
+  /*      
         try {
             Thread.currentThread().sleep((long) (400 + Math.random() * 220));
         } catch (InterruptedException e) {
             e.printStackTrace();
         }        
-        
+    */    
         RegRequested regRequested = new RegRequested();
         BeanUtils.copyProperties(this, regRequested);
         regRequested.setRegYn("RegRequested");
