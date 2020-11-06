@@ -69,5 +69,5 @@ spring:
           contentType: application/json
 
 api:
-  approaval:
+  approval:
     url: http://approval:8080
