@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: regrequest
-          image: username/regrequest:latest
+          image: admin16.azurecr.io/regrequest:latest
           ports:
             - containerPort: 8080
           readinessProbe:
